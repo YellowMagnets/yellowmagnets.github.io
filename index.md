@@ -14,9 +14,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Sairam** and _Prabhath_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](yellowmagnets.com) and ![Image](https://i1.wp.com/www.hsmagnets.com/wp-content/uploads/2016/04/Creative-U-shaped-Magnetic-Key-Holder-Chain-Hanging-Hook-Yellow.jpg?fit=500%2C500)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
