@@ -52,7 +52,7 @@
 
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="https://www.dropbox.com/s/5jd43nufhd5i3fu/home_success_2.jpg?raw=1" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="https://www.dropbox.com/s/a4s038cpjvdh7ts/Business-Consulting-Services.jpg?raw=1" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   
 </div>
 
