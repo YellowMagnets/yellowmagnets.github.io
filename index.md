@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>Yellow Magnets</title>
 <meta charset="UTF-8">
