@@ -55,7 +55,21 @@
   <img src="https://www.dropbox.com/s/a4s038cpjvdh7ts/Business-Consulting-Services.jpg?raw=1" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   
 </div>
-
+<!-- Modal -->
+<div id="id01" class="w3-modal">
+  <div class="w3-modal-content w3-card-4 w3-animate-top">
+    <header class="w3-container w3-teal w3-display-container"> 
+      <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-teal w3-display-topright"><i class="fa fa-remove"></i></span>
+      
+    </header>
+    <div class="w3-container">
+     
+    </div>
+    <footer class="w3-container w3-teal">
+      <p>Modal footer</p>
+    </footer>
+  </div>
+</div>
 <!-- Team Container -->
 <div class="w3-container w3-padding-64 w3-center" id="team">
 <h2>OUR TEAM</h2>
