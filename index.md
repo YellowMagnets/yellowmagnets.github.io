@@ -24,7 +24,7 @@
 <div class="w3-top">
  <div class="w3-bar w3-theme-d2 w3-left-align">
   <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-hover-white w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
-  <a href="#" class="w3-bar-item w3-button w3-teal"><i class="fa fa-home w3-margin-right"></i>Logo</a>
+  <a href="#" class="w3-bar-item w3-button w3-teal"><i class="fa fa-home w3-margin-right"></i>Yellow Magnets</a>
   <a href="#team" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Team</a>
   <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Work</a>
   <a href="#pricing" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Price</a>
@@ -53,9 +53,7 @@
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
   <img src="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjM28euj77XAhXLu48KHWGlAOsQjRwIBw&url=http%3A%2F%2Fwww.jesseloogna.se%2Fmin-bat%2F&psig=AOvVaw16yFp69Uu8XVeFcgNOmmK8&ust=1510750724434726" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
-  <div class="w3-container w3-display-bottomleft w3-margin-bottom">  
-    <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-xlarge w3-theme w3-hover-teal" title="Go To W3.CSS">LEARN W3.CSS</button>
-  </div>
+  
 </div>
 
 <!-- Modal -->
