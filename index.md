@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>Yellow Magnets</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -52,7 +52,7 @@
 
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="/w3images/sailboat.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjM28euj77XAhXLu48KHWGlAOsQjRwIBw&url=http%3A%2F%2Fwww.jesseloogna.se%2Fmin-bat%2F&psig=AOvVaw16yFp69Uu8XVeFcgNOmmK8&ust=1510750724434726" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   <div class="w3-container w3-display-bottomleft w3-margin-bottom">  
     <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-xlarge w3-theme w3-hover-teal" title="Go To W3.CSS">LEARN W3.CSS</button>
   </div>
