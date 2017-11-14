@@ -52,7 +52,7 @@
 
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjM28euj77XAhXLu48KHWGlAOsQjRwIBw&url=http%3A%2F%2Fwww.jesseloogna.se%2Fmin-bat%2F&psig=AOvVaw16yFp69Uu8XVeFcgNOmmK8&ust=1510750724434726" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="https://www.dropbox.com/s/x86o3qkpqbanb0r/sailboat.jpg?dl=0" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   
 </div>
 
