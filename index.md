@@ -52,7 +52,7 @@
 
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="https://www.dropbox.com/s/x86o3qkpqbanb0r/sailboat.jpg?dl=0" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   
 </div>
 
