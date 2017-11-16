@@ -1,90 +1,312 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!--
-	Incorp4T by 4Templates | http://www.4templates.com/free/ | @4templates
-	Licensed under the Creative Commons Attribution 3.0 License
--->
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Yellow Magnets</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-<link href="http://fonts.googleapis.com/css?family=Arvo:400,700" rel="stylesheet" type="text/css" />
-<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+    <meta charset="UTF-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+
+    <title>Envigo Marketing</title>
+
+    <!-- css -->
+    <!-- add material font (roboto) and material icon as needed -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- add material css | replace bootstrap.css -->
+    <link href="css/material.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- additional css for documentation -->
+    <link href="https://v4-alpha.getbootstrap.com/assets/css/docs.min.css" rel="stylesheet">
+    <link href="css/project.min.css" rel="stylesheet">
 </head>
 <body>
-<div id="wrapper-gradiant">
-	<div id="wrapper-bgshadow">
-		<div id="wrapper">
-			<div id="header">
-				<div id="logo">
-					<h1><a href="#">Incorp<span>4T</span></a></h1>
-					<p>By 4Templates</p>
-				</div>
-			</div>
-			<div id="menu-wrapper">
-				<div id="menu">
-					<ul>
-						<li><a href="#" accesskey="1" title="">Home</a></li>
-						<li><a href="#" accesskey="2" title="">Services</a></li>
-						<li><a href="#" accesskey="3" title="">Clients</a></li>
-						<li><a href="#" accesskey="4" title="">About Us</a></li>
-						<li><a href="#" accesskey="5" title="">Careers</a></li>
-						<li><a href="#" accesskey="6" title="">Contact Us</a></li>
-					</ul>
-				</div>
-			</div>
-			<div id="banner">
-				<div class="image"><a href="#"><img src="images/pics01.jpg" width="1000" height="262" alt="" /></a></div>
-				<div class="caption1">
-					<h2>Lorem ipsum dolor consequat</h2>
-					<p>Ipsum consequat phasellus veroeros etiam</p>
-				</div>
-			</div>
-			<div id="page">
-				<div class="bgtop"></div>
-				<div class="bgcontent">
-					<div id="post-43" class="post-43 post type-post status-publish format-standard sticky hentry category-uncategorized tag-aliquam tag-amat tag-dolor tag-ipsum tag-lorem tag-sit post,first">
-						<h2 class="title"><a href="http://wpArix.localhost/archives/43" rel="bookmark">Quisque Consectetur Risus</a></h2>
-						<p class="title-liner">Phasellus etiam aliquam et veroeros</p>
-						<p><img src="images/pics02.jpg" alt="" width="169" height="175" class="alignleft" />Curabitur lorem risus eu lorem sodales. Sed at est tortor. Donec ullamcorper adipiscing metus, et convallis lorem pharetra a. Cras elit nunc, mollis dignissim ornare eu, placerat id turpis. Fusce ultricies dapibus quam, nec convallis dui cursus sed. Pellentesque eget magna sed augue tristique imperdiet ut at est. Quisque rutrum eleifend tellus, vitae viverra arcu [...]</p>
-						<div class="divider"></div>
-					</div>
-					<div class="post">
-						<h3 class="subtitle">Ipsum veroeros consequat</h3>
-						<p>Nam vestibulum hendrerit orci, sed pharetra elit elementum in. Donec in eros sed odio varius tempus. Vestibulum quis quam et velit rutrum ornare nec a massa. Curabitur sed morbi congue facilisis ante in sed lorem ipsum dolor sit amet nullam blandit.</p>
-						<p class="arixWP_postmeta"> <span class="readpost button round"><a href="http://wpArix.localhost/archives/43" class="button-style2">Learn More...</a></span> </p>
-					</div>
-				</div>
-				<div class="bgbtm"></div>
-			</div>
-			<div id="sidebar">
-				<div>
-					<h2 class="title">Recent Post</h2>
-					<ul>
-						<li class="first"><a href="#">Hendrerit orci sed pharetra elit</a></li>
-						<li><a href="#">Donec in eros odio varius tempus</a></li>
-						<li><a href="#">Vestibulum quis quam et velit</a></li>
-						<li><a href="#">Rutrum ornare nec sed curabitur</a></li>
-						<li><a href="#">Malesuada ullamcorper nunc</a></li>
-					</ul>
-				</div>
-				<div>
-					<h2 class="title">Recent Post</h2>
-					<ul>
-						<li class="first"><a href="#">Hendrerit orci sed pharetra elit</a></li>
-						<li><a href="#">Donec in eros odio varius tempus</a></li>
-						<li><a href="#">Vestibulum quis quam et velit</a></li>
-						<li><a href="#">Rutrum ornare nec sed curabitur</a></li>
-						<li><a href="#">Malesuada ullamcorper nunc</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div id="footer">
-		<p>© Your Business Name&nbsp;&nbsp;|&nbsp;&nbsp;Design by <a href="http://www.4templates.com/free/">4Templates</a>&nbsp;&nbsp;|&nbsp;&nbsp;Photos by <a href="http://fotogrph.com/">Fotogrph</a></p>
-	</div>
+
+<!--Header-->
+<nav id="head" class="navbar navbar-toggleable-md">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="container">
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav offset-7">
+            <li id="try" class="nav-item active">
+                <a class="nav-link" href="#">Link<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><button class="btn btn-danger">Link</button> </a>
+            </li>
+        </ul>
+    </div>
+        </div>
+</nav>
+<!--headerEnds-->
+<!--<br/><br/><br/>-->
+<!--subHeader-->
+<nav class="navbar sticky-top navbar-toggleable-md opaque-navbar">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="container">
+    <a class="navbar-brand" href="index.html" id="logo"><p>Logo</p> </a>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="transNav navbar-nav offset-8 ">
+            <li class=" nav-item active">
+                <a class="transNav nav-link" href="#" id="one">Link 1</a>
+            </li>
+            <li class="nav-item">
+                <a class="transNav nav-link" href="#" id="two">Link 2</a>
+            </li>
+            <li class="nav-item">
+                <a class="transNav nav-link" href="#" id="three">Link 3</a>
+            </li>
+            <li class="nav-item">
+                <a class="transNav nav-link" href="#" id="four">Link 4</a>
+            </li>
+
+        </ul>
+    </div>
+        </div>
+</nav>
+<!--ends-->
+<!--parallaxStarts-->
+<!--first-->
+<div class="parallax_img" id="img1">
+<div class="container">
+    <div class="parallaxContent mx-auto">
+        <h1 class="text-center">This is some heading</h1>
+        <h4 class="text-center">This is the following text</h4>
+    </div>
+
 </div>
+</div>
+<!--ends-->
+<!--second-->
+<div class="parallax_img" id="img2">
+    <div class="container">
+        <div class="parallaxContent mx-auto">
+            <h1 class="text-center">This is some heading</h1>
+            <h4 class="text-center">This is the following text</h4>
+        </div>
+
+    </div>
+</div>
+<!--ends-->
+<!--third-->
+<div class="parallax_img" id="img3">
+    <div class="container">
+        <div class="parallaxContent mx-auto">
+            <h1 class="text-center">This is some heading</h1>
+            <h4 class="text-center">This is the following text</h4>
+        </div>
+
+    </div>
+</div>
+<!--ends-->
+<!--fourth-->
+<div class="parallax_img" id="img4">
+    <div class="container">
+        <div class="parallaxContent mx-auto">
+            <h1 class="text-center">This is some heading</h1>
+            <h4 class="text-center">This is the following text</h4>
+        </div>
+
+    </div>
+</div>
+<!--ends-->
+<!--fifth-->
+<div class="parallax_img" id="img5">
+    <div class="container">
+        <div class="parallaxContent mx-auto">
+            <h1 class="text-center">This is some heading</h1>
+            <h4 class="text-center">This is the following text</h4>
+        </div>
+
+    </div>
+</div>
+<!--ends-->
+<!--sixth-->
+<div class="parallax_img" id="img6">
+    <div class="container">
+        <div class="parallaxContent mx-auto">
+            <h1 class="text-center">This is some heading</h1>
+            <h4 class="text-center">This is the following text</h4>
+        </div>
+
+    </div>
+</div>
+<!--ends-->
+<!--subscribe-->
+<div class="downloadApp">
+    <div class="container">
+        <div class="row p-5">
+            <h3 class="text-uppercase m-0 col-lg-6 mx-auto">Subscribe to newsletter
+            </h3>
+            <div class="subs card col-lg-4">
+                <div class="card-block text-nowrap">
+                    <input class="my form-control" placeholder="Enter Email">
+                </div>
+            </div>
+            <button class="btn btn-primary col-lg-2"><a href="bit.ly/kickstartjobs">Submit</a></button>
+        </div>
+    </div>
+</div>
+<!--ends-->
+<div class="footer">
+    <div class="about container">
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        <div class="row">
+            <div class="social col-lg-6 col-xs-6"></div>
+            <div class="quicklinks col-lg-6 col-xs-6">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Privacy Policy</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">FAQs</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!--footerEnds-->
+<!-- js -->
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+
+<!-- add material js on top of bootstrap.js -->
+<script src="js/material.min.js"></script>
+
+<!-- additional js for documentation -->
+<script src="js/project.min.js"></script>
 </body>
 </html>
+
+<!--add these scripts in new js file-->
+<!--for navBar-->
+<script>
+    $(window).scroll(function() {
+        if($(this).scrollTop() > 50)  /*height in pixels when the navbar becomes non opaque*/
+        {
+            $('.opaque-navbar').addClass('opaque');
+        } else {
+            $('.opaque-navbar').removeClass('opaque');
+        }
+    });
+</script>
+<!--navbar-->
+
+<script type="text/javascript">
+    /* resize the image(s) on page load */
+    $(document).ready(function() {
+        resize_all_parallax();
+    });
+
+    /* resize the image(s) on page resize */
+    $(window).on('resize', function(){
+        resize_all_parallax();
+    });
+
+    /* keep all of your resize function calls in one place so you don't have to edit them twice (on page load and resize) */
+    function resize_all_parallax() {
+        var div_id = 'parallax_img'; /* the ID of the div that you're resizing */
+        var img_w = 1000; /* the width of your image, in pixels */
+        var img_h = 864; /* the height of your image, in pixels */
+        resize_parallax(div_id,img_w,img_h);
+    }
+
+    /* this resizes the parallax image down to an appropriate size for the viewport */
+    function resize_parallax(div_id,img_w,img_h) {
+        var div = $('.' + div_id);
+        var divwidth = div.width();
+        if (divwidth < 769) { var pct = (img_h/img_w) * 105; } /* show full image, plus a little padding, if on static mobile view */
+        else { var pct = 60; } /* this is the HEIGHT as percentage of the current div WIDTH. you can change it to show more (or less) of your image */
+        var newheight = Math.round(divwidth * (pct/100));
+        newheight = newheight  + 'px';
+        div.height(newheight);
+    }
+</script>
+
+<script>
+    $(document).ready(function(){
+        var scroll_start = 0;
+        var startchange = $('#head');
+        var offset = startchange.offset();
+        if (startchange.length){
+            $(document).scroll(function() {
+                scroll_start = $(this).scrollTop();
+                if(scroll_start > offset.top) {
+                    $("#one").css('color', '#fff');
+                }
+            });
+        }
+    });
+    $(document).ready(function(){
+        var scroll_start = 0;
+        var startchange = $('#head');
+        var offset = startchange.offset();
+        if (startchange.length){
+            $(document).scroll(function() {
+                scroll_start = $(this).scrollTop();
+                if(scroll_start > offset.top) {
+                    $("#two").css('color', '#fff');
+                }
+            });
+        }
+    });
+    $(document).ready(function(){
+        var scroll_start = 0;
+        var startchange = $('#head');
+        var offset = startchange.offset();
+        if (startchange.length){
+            $(document).scroll(function() {
+                scroll_start = $(this).scrollTop();
+                if(scroll_start > offset.top) {
+                    $("#three").css('color', '#fff');
+                }
+            });
+        }
+    });
+    $(document).ready(function(){
+        var scroll_start = 0;
+        var startchange = $('#head');
+        var offset = startchange.offset();
+        if (startchange.length){
+            $(document).scroll(function() {
+                scroll_start = $(this).scrollTop();
+                if(scroll_start > offset.top) {
+                    $("#four").css('color', '#fff');
+                }
+            });
+        }
+    });
+    $(document).ready(function(){
+        var scroll_start = 0;
+        var startchange = $('#head');
+        var offset = startchange.offset();
+        if (startchange.length){
+            $(document).scroll(function() {
+                scroll_start = $(this).scrollTop();
+                if(scroll_start > offset.top) {
+                    $("#logo").css('color', '#fff');
+                }
+            });
+        }
+    });
+</script>
