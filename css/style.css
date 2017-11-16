@@ -1,5 +1,5 @@
 .parallax_img {
-    height: 0px;
+    height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -34,11 +34,11 @@ div#img6{
 
 .parallaxContent h1{
     padding-top: 40%;
-    color: white;
+    color: black;
 }
 .parallaxContent h4{
     padding-bottom: 40%;
-    color: white;
+    color: black;
 
 }
 
