@@ -436,7 +436,7 @@ a.nivo-nextNav {
     border: medium none;
     display: block;
     font-family: Arial,Helvetica,sans-serif;
-    font-size: 13px;
+    font-size: 24px;
     line-height: 1.5em;
     margin: 0;
     padding: 6px 2px;
@@ -456,7 +456,7 @@ a.nivo-nextNav {
     border-bottom: 1px solid #EEEEEE;
     display: block;
     font-family: Arial,Helvetica,sans-serif;
-    font-size: 11px;
+    font-size:24px;
     font-weight: bold;
     margin-bottom: 1px;
     padding: 7px 10px;
@@ -476,7 +476,7 @@ a.nivo-nextNav {
 }
 #content-bottom p {
     color: #CCCCCC;
-    font-size:20px;
+    font-size:25px;
     margin: 0;
     padding: 0;
     text-align: center;
