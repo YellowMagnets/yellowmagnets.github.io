@@ -169,7 +169,7 @@ li {
     padding-bottom: 5px;
 }
 li ol, li ul {
-    font-size: 2em;
+    font-size: 1em;
     margin-bottom: 0;
     padding-top: 5px;
 }
@@ -226,7 +226,7 @@ li ol, li ul {
     color: #FFFFFF;
     display: block;
     font-family: 'Lucida Grande','Lucida Sans Unicode',Geneva,Verdana,Sans-Serif;
-    font-size:30px;
+    font-size:23px;
     font-weight: bold;
     padding: 15px 20px;
     text-decoration: none;
@@ -386,7 +386,7 @@ a.nivo-nextNav {
     color: #FBC00C;
     cursor: pointer;
     display: inline-block;
-    font: 20px/100% Arial,Helvetica,sans-serif;
+    font: 12px/100% Arial,Helvetica,sans-serif;
     outline: medium none;
     padding: 0.6em 1.5em;
     position: relative;
@@ -399,7 +399,7 @@ a.nivo-nextNav {
     top: 1px;
 }
 .medium {
-    font-size: 22px;
+    font-size: 16px;
     padding: 0.8em 1.4em 0.7em;
 }
 #main {
@@ -436,15 +436,14 @@ a.nivo-nextNav {
     border: medium none;
     display: block;
     font-family: Arial,Helvetica,sans-serif;
-    font-size: 30px;
-    font-weight: bold;
+    font-size: 24px;
     line-height: 1.5em;
     margin: 0;
     padding: 6px 2px;
 }
 .sidebar li ul li a {
     color: #222222;
-    font-weight: bold;
+    font-weight: normal;
 }
 .sidebar li ul li a:hover {
     color: #0173CB;
@@ -457,7 +456,7 @@ a.nivo-nextNav {
     border-bottom: 1px solid #EEEEEE;
     display: block;
     font-family: Arial,Helvetica,sans-serif;
-    font-size:30px;
+    font-size:24px;
     font-weight: bold;
     margin-bottom: 1px;
     padding: 7px 10px;
@@ -513,7 +512,7 @@ a.nivo-nextNav {
 }
 #content-bottom .content-bottom-inner h4 {
     color: #FBC00C;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: normal;
     padding-bottom: 0;
 }
