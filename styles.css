@@ -471,25 +471,23 @@ a.nivo-nextNav {
     clear: both;
 }
 #content-bottom {
-    margin:700;
+    margin: 0 auto;
     width: 960px;
      float: center;
 }
 #content-bottom p {
     color: #800040;
     font-size:25px;
-    margin:700;
+    margin: 0;
     padding: 0;
     text-align: center;
-     float: center;
 }
 #content-bottom p a {
     color: #800040;
     font-weight: bold;
-     float: center;
 }
 .content-bottom-inner {
-    padding: 70px 0 130px;
+    padding: 20px 0 30px;
     float: center;
 }
 #content-bottom .content-bottom-inner ul {
@@ -497,7 +495,7 @@ a.nivo-nextNav {
     border-radius: 10px 10px 10px 10px;
     float: center;
     list-style: none outside none;
-    margin: 250 15px 0 0;
+    margin: 0 15px 0 0;
     padding: 15px;
     width: 530px;
     font-size: 20px;
@@ -508,7 +506,6 @@ a.nivo-nextNav {
     padding: 7px 5px;
     font-size: 20px;
     text-align: center;
-     float: center;
 }
 #content-bottom .content-bottom-inner h4 {
     border-bottom: 1px solid #CCCCCC;
@@ -529,8 +526,7 @@ a.nivo-nextNav {
     text-align: center
 }
 #content-bottom .content-bottom-inner ul.lastcol {
-    margin-right:700;
-     float: center;
+    margin-right: 0;
 }
 #content-bottom .content-bottom-inner span.sitename {
     color: #AAAAAA;
