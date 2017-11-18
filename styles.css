@@ -11,21 +11,21 @@ body {
     padding: 0;
 }
 table {
-    text-align: left;
+    text-align: center;
     width: 100%;
 }
 th, td {
     padding: 10px;
 }
 th {
-    background: none repeat-x scroll left top #0173CB;
+    background: none repeat-x scroll center top #0173CB;
     color: #FFFFFF;
 }
 td {
     border-bottom: 1px solid #CCCCCC;
 }
 code, blockquote {
-    border-left: 5px solid #222222;
+    border-center: 5px solid #222222;
     display: block;
     margin-bottom: 20px;
     padding: 10px;
@@ -36,7 +36,7 @@ code {
     color: #CCCCCC;
 }
 blockquote {
-    border-left: 5px solid #222222;
+    border-center: 5px solid #222222;
 }
 blockquote p {
     color: #333333;
@@ -63,7 +63,7 @@ a:focus {
 fieldset {
     -moz-border-bottom-colors: none;
     -moz-border-image: none;
-    -moz-border-left-colors: none;
+    -moz-border-center-colors: none;
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
     border-color: #CCCCCC -moz-use-text-color -moz-use-text-color;
@@ -82,13 +82,13 @@ fieldset form {
     padding-top: 15px;
 }
 fieldset p label {
-    float: left;
+    float: center;
     width: 150px;
 }
 form input, form select, form textarea {
     -moz-border-bottom-colors: none;
     -moz-border-image: none;
-    -moz-border-left-colors: none;
+    -moz-border-center-colors: none;
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
     background-color: #FFFFFF;
@@ -118,9 +118,9 @@ form.searchform p {
 span.required {
     color: #FF0000;
 }
-.imgleft {
+.imgcenter {
     border: 1px solid #CCCCCC;
-    float: left;
+    float: center;
     margin-bottom: 5px;
     margin-right: 5px;
     padding: 5px;
@@ -201,7 +201,7 @@ li ol, li ul {
     font-size: 24px;
     letter-spacing: 0;
     margin-top: 3px;
-    padding-left: 4px;
+    padding-center: 4px;
 }
 #nav {
     background-color: #000000;
@@ -219,7 +219,7 @@ li ol, li ul {
 }
 #nav ul li {
     display: block;
-    float: left;
+    float: center;
     padding: 0;
 }
 #nav ul li a {
@@ -251,7 +251,7 @@ li ol, li ul {
 }
 #slider img {
     display: none;
-    left: 0;
+    center: 0;
     position: absolute;
     top: 0;
 }
@@ -263,7 +263,7 @@ li ol, li ul {
     position: relative;
 }
 .nivoSlider img {
-    left: 0;
+    center: 0;
     position: absolute;
     top: 0;
 }
@@ -271,7 +271,7 @@ li ol, li ul {
     border: 0 none;
     display: none;
     height: 100%;
-    left: 0;
+    center: 0;
     margin: 0;
     padding: 0;
     position: absolute;
@@ -295,7 +295,7 @@ li ol, li ul {
     bottom: 0;
     color: #FFFFFF;
     font-family: arial;
-    left: 0;
+    center: 0;
     opacity: 0.8;
     position: absolute;
     text-transform: uppercase;
@@ -330,7 +330,7 @@ li ol, li ul {
     z-index: 9;
 }
 a.nivo-prevNav {
-    left: 15px;
+    center: 15px;
 }
 a.nivo-nextNav {
     background-position: -30px 50%;
@@ -338,14 +338,14 @@ a.nivo-nextNav {
 }
 .nivo-controlNav {
     bottom: -30px;
-    left: 50%;
-    margin-left: -40px;
+    center: 50%;
+    margin-center: -40px;
     position: absolute;
 }
 .nivo-controlNav a {
     background: url("images/bullets.png") no-repeat scroll 0 0 transparent;
     cursor: pointer;
-    float: left;
+    float: center;
     height: 22px;
     margin-top: 250px;
     position: relative;
@@ -364,7 +364,7 @@ a.nivo-nextNav {
     padding: 23px 30px;
 }
 .bar-title {
-    float: left;
+    float: center;
     width: 720px;
 }
 .bar-title h3 {
@@ -409,11 +409,11 @@ a.nivo-nextNav {
     width: 936px;
 }
 #content {
-    float: left;
+    float: center;
     width: 635px;
 }
 #content-home {
-    float: left;
+    float: center;
     width: 935px;
 }
 .sidebar {
