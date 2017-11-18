@@ -481,10 +481,12 @@ a.nivo-nextNav {
     margin: 0;
     padding: 0;
     text-align: center;
+     float: center;
 }
 #content-bottom p a {
     color: #800040;
     font-weight: bold;
+     float: center;
 }
 .content-bottom-inner {
     padding: 20px 0 30px;
@@ -500,12 +502,14 @@ a.nivo-nextNav {
     width: 530px;
     font-size: 20px;
     text-align: center;
+     float: center;
     
 }
 #content-bottom .content-bottom-inner li {
     padding: 7px 5px;
     font-size: 20px;
     text-align: center;
+     float: center;
 }
 #content-bottom .content-bottom-inner h4 {
     border-bottom: 1px solid #CCCCCC;
@@ -527,6 +531,7 @@ a.nivo-nextNav {
 }
 #content-bottom .content-bottom-inner ul.lastcol {
     margin-right: 0;
+     float: center;
 }
 #content-bottom .content-bottom-inner span.sitename {
     color: #AAAAAA;
