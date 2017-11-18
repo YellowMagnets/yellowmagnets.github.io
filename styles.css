@@ -473,14 +473,14 @@ a.nivo-nextNav {
 #content-bottom {
     margin: 0 auto;
     width: 960px;
-     float: center;
+     float: left;
 }
 #content-bottom p {
     color: #800040;
     font-size:25px;
     margin: 0;
     padding: 0;
-    text-align: center;
+    text-align: left;
 }
 #content-bottom p a {
     color: #800040;
@@ -488,24 +488,24 @@ a.nivo-nextNav {
 }
 .content-bottom-inner {
     padding: 20px 0 30px;
-    float: center;
+    float: left;
 }
 #content-bottom .content-bottom-inner ul {
     background-color: #FFFFFF;
     border-radius: 10px 10px 10px 10px;
-    float: center;
+    float: left;
     list-style: none outside none;
     margin: 0 15px 0 0;
     padding: 15px;
     width: 530px;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     
 }
 #content-bottom .content-bottom-inner li {
     padding: 7px 5px;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
 }
 #content-bottom .content-bottom-inner h4 {
     border-bottom: 1px solid #CCCCCC;
@@ -523,14 +523,14 @@ a.nivo-nextNav {
     font-size: 32px;
     font-weight: bold;
     padding-bottom: 0;
-    text-align: center
+    text-align: left
 }
 #content-bottom .content-bottom-inner ul.lastcol {
     margin-right: 0;
 }
 #content-bottom .content-bottom-inner span.sitename {
     color: #AAAAAA;
-    float: center;
+    float: left;
     font-family: Arial,Helvetica,sans-serif;
     font-size: 40px;
     font-weight: normal;
