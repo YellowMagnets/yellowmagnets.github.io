@@ -471,14 +471,14 @@ a.nivo-nextNav {
     clear: both;
 }
 #content-bottom {
-    margin:width/2-250;
+    margin:700;
     width: 960px;
      float: center;
 }
 #content-bottom p {
     color: #800040;
     font-size:25px;
-    margin: 0;
+    margin:700;
     padding: 0;
     text-align: center;
      float: center;
@@ -489,7 +489,7 @@ a.nivo-nextNav {
      float: center;
 }
 .content-bottom-inner {
-    padding: 20px 0 30px;
+    padding: 70px 0 130px;
     float: center;
 }
 #content-bottom .content-bottom-inner ul {
@@ -497,12 +497,11 @@ a.nivo-nextNav {
     border-radius: 10px 10px 10px 10px;
     float: center;
     list-style: none outside none;
-    margin: 0 15px 0 0;
+    margin: 250 15px 0 0;
     padding: 15px;
     width: 530px;
     font-size: 20px;
     text-align: center;
-     float: center;
     
 }
 #content-bottom .content-bottom-inner li {
@@ -530,7 +529,7 @@ a.nivo-nextNav {
     text-align: center
 }
 #content-bottom .content-bottom-inner ul.lastcol {
-    margin-right: 0;
+    margin-right:700;
      float: center;
 }
 #content-bottom .content-bottom-inner span.sitename {
