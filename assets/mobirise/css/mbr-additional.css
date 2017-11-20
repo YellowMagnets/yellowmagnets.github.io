@@ -1715,7 +1715,7 @@ body {
   flex-basis: auto;
 }
 .cid-qBvbE10IRc {
-  background-color: #f9e916;
+  background-image: url("../../../assets/images/ym-background1-1200x900.jpg");
 }
 .cid-qBvbE10IRc P {
   text-align: left;
@@ -1723,6 +1723,9 @@ body {
 }
 .cid-qBvbE10IRc H1 {
   color: #232323;
+}
+.cid-qBvbE10IRc H3 {
+  color: #a63030;
 }
 .cid-qBvdyHl0H9 {
   padding-top: 0px;
